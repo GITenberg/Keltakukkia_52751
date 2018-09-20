@@ -1,0 +1,25 @@
+_repo: Keltakukkia_52751
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aalto, Ari
+    gutenberg_agent_id: '47028'
+    url: http://www.gutenberg.org/2009/agents/47028
+description: ''
+gutenberg_issued: '2016-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52751'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Keltakukkia -- Sovitus -- Petu parka... -- Huokauksetonta rakkautta
+  -- Ei koskaan -- Tapion jänis -- Ketin hautakummulla -- Luvattomuusko vai rikos?
+title: Keltakukkia
+url: http://www.gutenberg.org/ebooks/52751
